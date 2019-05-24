@@ -10,7 +10,7 @@ Today, the challenge for ride hailing and E-Commerce companies is bridging the l
 
 **Note that ride-hailing and e-commerce are just examples. Feel free to be creative and come up with solutions for any kind of business or case facing the last mile problem.**
 
-If you have not yet registered for the HERE platform, please sign-up for the free trial here. You can use any of the HERE APIs and SDKs for your location technology needs. Entries using other location technology providers will not be considered for any prizes.
+You can use any of the HERE APIs and SDKs for your location technology needs. Entries using other location technology providers will not be considered for any prizes.
 
 HERE Technologies provides you with the following benefits.
 
